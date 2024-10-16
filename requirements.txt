@@ -1,0 +1,12 @@
+pandas
+langchain
+langchain-experimental
+langchain-groq
+python-dotenv
+tabulate
+streamlit
+numpy==1.22
+nest-asyncio==1.5
+monotonic==1.5
+nltk
+chardet
